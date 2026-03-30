@@ -1,5 +1,5 @@
 const countdown = () => {
-    const countDate = new Date("April 01, 2026 00:00:00").getTime();
+    const countDate = new Date("April 15, 2026 00:00:00").getTime();
 
     const currentTime = new Date().getTime();
     console.log(currentTime);
